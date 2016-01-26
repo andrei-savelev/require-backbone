@@ -1,0 +1,31 @@
+{
+  "name": "require-backbone",
+  "authors": [
+    "Andrey Savelev <savelevcorr@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone-amd": "~1.1.0",
+    "underscore-amd": "~1.5.2",
+    "jquery": "~2.2.0",
+    "requirejs": "~2.1.22",
+    "neat": "~1.7.2",
+    "bourbon": "~4.2.6",
+    "normalize.sass": "~3.0.0",
+    "animate.sass": "*",
+    "animate.scss": "*"
+  }
+}

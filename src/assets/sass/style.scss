@@ -1,0 +1,9 @@
+@import "../../../bower_components/normalize.sass/normalize";
+@import "../../../bower_components/animate.scss/scss/animate";
+@import "../../../bower_components/bourbon/app/assets/stylesheets/bourbon";
+@import "../../../bower_components/neat/app/assets/stylesheets/neat";
+
+.payframe {
+  @include outer-container();
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
